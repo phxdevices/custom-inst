@@ -1,0 +1,4 @@
+custom-inst
+===========
+
+Custom Installer
